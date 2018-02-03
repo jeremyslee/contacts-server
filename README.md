@@ -1,8 +1,8 @@
-# Server for Contacts Project
+## Server for Contacts Project
 
 This is a backend server for the Contacts app.
 
-## Getting Set Up
+### Getting Set Up
 
 Getting the server running on your local machine takes only a few steps:
 
