@@ -16,7 +16,13 @@ const defaultData = {
       name: 'Purrfect Smudge',
       email: 'smudge@purrfectsmudge.com',
       avatarURL: config.origin + '/smudge.jpg'
-    }
+    },
+    {
+      id: 'mickey',
+      name: 'Mickey Mouse',
+      email: 'mickey@disneyemail.com',
+      avatarURL: config.origin + '/mickey.png'
+    },
   ]
 }
 
